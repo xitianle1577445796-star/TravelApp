@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "InkJourney - Water Ink Travel Memoirs",
+    "slug": "ink-journey-travel",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.jpg",
+    "splash": {
+      "image": "./assets/icon.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.travel.inkjourney"
+    },
+    "android": {
+      "package": "com.travel.inkjourney"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "182b64b0-20f5-4b45-bce4-d4fa604fa608"
+      }
+    }
+  }
+}
